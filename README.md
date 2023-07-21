@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qulu Quliyev</h1>
-<h3 align="center">Entrepreneur and Backend developer</h3>
+<h3 align="center">Backend developer</h3>
 
 - 🔭 I’m currently working on **Django**
 
