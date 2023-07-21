@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/qulu-quliyev-0172b5228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qulu-quliyev-0172b5228" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100093251986316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093251986316" height="30" width="40" /></a>
 <a href="https://instagram.com/85quluquliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="85quluquliyev" height="30" width="40" /></a>
-<a href="https://medium.com/@quluquliyev.xsaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@quluquliyev.xsaq" height="30" width="40" /></a>
+<a href="https://medium.com/@85quluquliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@85quluquliyev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
