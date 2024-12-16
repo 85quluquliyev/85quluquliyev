@@ -102,12 +102,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/85quluquliyev/85quluquliyev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/85quluquliyev/count.svg?"  />
 </div>
